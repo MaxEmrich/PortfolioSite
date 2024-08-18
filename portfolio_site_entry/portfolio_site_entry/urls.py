@@ -17,7 +17,12 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path, include
 
+# Note: When a request comes in, django loops through the urlpatterns list, then stops at the first one that 
+# matches the requested path in the url. The 
+
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path("", include("blog.urls")), # this "include" function takes everything that comes AFTER the stuff inside "" and passes it to the blog.urls file
+    path("", include("blog.urls")), # this "include" function takes everything that comes AFTER the stuff inside "/" and passes it to the blog.urls file
+    path("accounts/", include("users.urls")),
+    path('tinymce/', include('tinymce.urls')),
 ]
