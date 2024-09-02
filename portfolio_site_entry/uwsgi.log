@@ -1,0 +1,1064 @@
+*** Starting uWSGI 2.0.26 (64bit) on [Sun Sep  1 18:24:40 2024] ***
+compiled with version: 13.2.0 on 22 August 2024 18:30:41
+os: Linux-6.8.0-41-generic #41-Ubuntu SMP PREEMPT_DYNAMIC Fri Aug  2 20:41:06 UTC 2024
+nodename: max-emrich-Latitude-E5470
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry
+detected binary path: /home/max-emrich/WebServerEntry/django_venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry
+your processes number limit is 63263
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:8001 fd 3
+Python version: 3.12.3 (main, Jul 31 2024, 17:43:48) [GCC 13.2.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x73122d09ff68
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 437424 bytes (427 KB) for 5 cores
+*** Operational MODE: preforking ***
+ModuleNotFoundError: No module named 'myproject'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 19561)
+spawned uWSGI worker 1 (pid: 19562, cores: 1)
+spawned uWSGI worker 2 (pid: 19563, cores: 1)
+spawned uWSGI worker 3 (pid: 19564, cores: 1)
+spawned uWSGI worker 4 (pid: 19565, cores: 1)
+spawned uWSGI worker 5 (pid: 19566, cores: 1)
+SIGINT/SIGTERM received...killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 5 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.26 (64bit) on [Sun Sep  1 18:26:24 2024] ***
+compiled with version: 13.2.0 on 22 August 2024 18:30:41
+os: Linux-6.8.0-41-generic #41-Ubuntu SMP PREEMPT_DYNAMIC Fri Aug  2 20:41:06 UTC 2024
+nodename: max-emrich-Latitude-E5470
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry
+detected binary path: /home/max-emrich/WebServerEntry/django_venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry
+your processes number limit is 63263
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to TCP address 127.0.0.1:8001 fd 3
+Python version: 3.12.3 (main, Jul 31 2024, 17:43:48) [GCC 13.2.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x79f81d09ff68
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 437424 bytes (427 KB) for 5 cores
+*** Operational MODE: preforking ***
+ModuleNotFoundError: No module named 'myproject'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 19585)
+spawned uWSGI worker 1 (pid: 19586, cores: 1)
+spawned uWSGI worker 2 (pid: 19587, cores: 1)
+spawned uWSGI worker 3 (pid: 19588, cores: 1)
+spawned uWSGI worker 4 (pid: 19589, cores: 1)
+spawned uWSGI worker 5 (pid: 19590, cores: 1)
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+invalid request block size: 21573 (max 4096)...skip
+SIGINT/SIGTERM received...killing workers...
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 5 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.26 (64bit) on [Sun Sep  1 18:29:49 2024] ***
+compiled with version: 13.2.0 on 22 August 2024 18:30:41
+os: Linux-6.8.0-41-generic #41-Ubuntu SMP PREEMPT_DYNAMIC Fri Aug  2 20:41:06 UTC 2024
+nodename: max-emrich-Latitude-E5470
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry
+detected binary path: /home/max-emrich/WebServerEntry/django_venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry
+your processes number limit is 63263
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on :8001 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:41583 (port auto-assigned) fd 3
+Python version: 3.12.3 (main, Jul 31 2024, 17:43:48) [GCC 13.2.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x7e8feca9ff68
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 437424 bytes (427 KB) for 5 cores
+*** Operational MODE: preforking ***
+ModuleNotFoundError: No module named 'myproject'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 19660)
+spawned uWSGI worker 1 (pid: 19661, cores: 1)
+spawned uWSGI worker 2 (pid: 19662, cores: 1)
+spawned uWSGI worker 3 (pid: 19663, cores: 1)
+spawned uWSGI worker 4 (pid: 19664, cores: 1)
+spawned uWSGI worker 5 (pid: 19665, cores: 1)
+spawned uWSGI http 1 (pid: 19666)
+--- no python application found, check your startup logs for errors ---
+[pid: 19665|app: -1|req: -1/1] 127.0.0.1 () {42 vars in 694 bytes} [Sun Sep  1 18:29:58 2024] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 19663|app: -1|req: -1/2] 127.0.0.1 () {42 vars in 656 bytes} [Sun Sep  1 18:29:58 2024] GET /favicon.ico => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 19665|app: -1|req: -1/3] 127.0.0.1 () {42 vars in 694 bytes} [Sun Sep  1 18:30:17 2024] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+SIGINT/SIGTERM received...killing workers...
+gateway "uWSGI http 1" has been buried (pid: 19666)
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 5 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.26 (64bit) on [Sun Sep  1 18:31:23 2024] ***
+compiled with version: 13.2.0 on 22 August 2024 18:30:41
+os: Linux-6.8.0-41-generic #41-Ubuntu SMP PREEMPT_DYNAMIC Fri Aug  2 20:41:06 UTC 2024
+nodename: max-emrich-Latitude-E5470
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry
+detected binary path: /home/max-emrich/WebServerEntry/django_venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/portfolio_site_entry
+your processes number limit is 63263
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on :8001 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:39077 (port auto-assigned) fd 3
+Python version: 3.12.3 (main, Jul 31 2024, 17:43:48) [GCC 13.2.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x769bef69ff68
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 437424 bytes (427 KB) for 5 cores
+*** Operational MODE: preforking ***
+ModuleNotFoundError: No module named 'myproject'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 19718)
+spawned uWSGI worker 1 (pid: 19719, cores: 1)
+spawned uWSGI worker 2 (pid: 19720, cores: 1)
+spawned uWSGI worker 3 (pid: 19721, cores: 1)
+spawned uWSGI worker 4 (pid: 19722, cores: 1)
+spawned uWSGI worker 5 (pid: 19723, cores: 1)
+spawned uWSGI http 1 (pid: 19724)
+SIGINT/SIGTERM received...killing workers...
+gateway "uWSGI http 1" has been buried (pid: 19724)
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 5 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.26 (64bit) on [Sun Sep  1 18:31:46 2024] ***
+compiled with version: 13.2.0 on 22 August 2024 18:30:41
+os: Linux-6.8.0-41-generic #41-Ubuntu SMP PREEMPT_DYNAMIC Fri Aug  2 20:41:06 UTC 2024
+nodename: max-emrich-Latitude-E5470
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry
+detected binary path: /home/max-emrich/WebServerEntry/django_venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/portfolio_site_entry
+your processes number limit is 63263
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uWSGI http bound on :8001 fd 4
+uwsgi socket 0 bound to TCP address 127.0.0.1:32821 (port auto-assigned) fd 3
+Python version: 3.12.3 (main, Jul 31 2024, 17:43:48) [GCC 13.2.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x753099e9ff68
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 437424 bytes (427 KB) for 5 cores
+*** Operational MODE: preforking ***
+ModuleNotFoundError: No module named 'myproject'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 19730)
+spawned uWSGI worker 1 (pid: 19731, cores: 1)
+spawned uWSGI worker 2 (pid: 19732, cores: 1)
+spawned uWSGI worker 3 (pid: 19733, cores: 1)
+spawned uWSGI worker 4 (pid: 19734, cores: 1)
+spawned uWSGI worker 5 (pid: 19735, cores: 1)
+spawned uWSGI http 1 (pid: 19736)
+--- no python application found, check your startup logs for errors ---
+[pid: 19734|app: -1|req: -1/1] 127.0.0.1 () {42 vars in 694 bytes} [Sun Sep  1 18:31:48 2024] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 19735|app: -1|req: -1/2] 127.0.0.1 () {42 vars in 694 bytes} [Sun Sep  1 18:31:49 2024] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 19735|app: -1|req: -1/3] 127.0.0.1 () {42 vars in 694 bytes} [Sun Sep  1 18:31:50 2024] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+--- no python application found, check your startup logs for errors ---
+[pid: 19735|app: -1|req: -1/4] 127.0.0.1 () {42 vars in 694 bytes} [Sun Sep  1 18:31:50 2024] GET / => generated 21 bytes in 0 msecs (HTTP/1.1 500) 2 headers in 83 bytes (0 switches on core 0)
+SIGINT/SIGTERM received...killing workers...
+gateway "uWSGI http 1" has been buried (pid: 19736)
+worker 1 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 5 buried after 1 seconds
+goodbye to uWSGI.
+*** Starting uWSGI 2.0.26 (64bit) on [Sun Sep  1 19:19:44 2024] ***
+compiled with version: 13.2.0 on 22 August 2024 18:30:41
+os: Linux-6.8.0-41-generic #41-Ubuntu SMP PREEMPT_DYNAMIC Fri Aug  2 20:41:06 UTC 2024
+nodename: max-emrich-Latitude-E5470
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry
+detected binary path: /home/max-emrich/WebServerEntry/django_venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/portfolio_site_entry
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 63263
+your memory page size is 4096 bytes
+ *** WARNING: you have enabled harakiri without post buffering. Slow upload could be rejected on post-unbuffered webservers *** 
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/portfolio_site_entry/myproject.sock fd 3
+Python version: 3.12.3 (main, Jul 31 2024, 17:43:48) [GCC 13.2.0]
+Python main interpreter initialized at 0x7ea0a689ff68
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416720 bytes (406 KB) for 10 cores
+*** Operational MODE: preforking+threaded ***
+ModuleNotFoundError: No module named 'myproject'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (pid: 21572, cores: 2)
+spawned uWSGI worker 2 (pid: 21573, cores: 2)
+spawned uWSGI worker 3 (pid: 21574, cores: 2)
+spawned uWSGI worker 4 (pid: 21575, cores: 2)
+spawned uWSGI worker 5 (pid: 21576, cores: 2)
+*** Starting uWSGI 2.0.26 (64bit) on [Sun Sep  1 19:23:13 2024] ***
+compiled with version: 13.2.0 on 22 August 2024 18:30:41
+os: Linux-6.8.0-41-generic #41-Ubuntu SMP PREEMPT_DYNAMIC Fri Aug  2 20:41:06 UTC 2024
+nodename: max-emrich-Latitude-E5470
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry
+detected binary path: /home/max-emrich/WebServerEntry/django_venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/portfolio_site_entry
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 63263
+your memory page size is 4096 bytes
+ *** WARNING: you have enabled harakiri without post buffering. Slow upload could be rejected on post-unbuffered webservers *** 
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/portfolio_site_entry/myproject.sock fd 3
+Python version: 3.12.3 (main, Jul 31 2024, 17:43:48) [GCC 13.2.0]
+Python main interpreter initialized at 0x7cbccec9ff68
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416720 bytes (406 KB) for 10 cores
+*** Operational MODE: preforking+threaded ***
+ModuleNotFoundError: No module named 'portfolio_site_entry'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (pid: 21621, cores: 2)
+spawned uWSGI worker 2 (pid: 21622, cores: 2)
+spawned uWSGI worker 3 (pid: 21623, cores: 2)
+spawned uWSGI worker 4 (pid: 21624, cores: 2)
+spawned uWSGI worker 5 (pid: 21625, cores: 2)
+*** Starting uWSGI 2.0.26 (64bit) on [Sun Sep  1 19:27:32 2024] ***
+compiled with version: 13.2.0 on 22 August 2024 18:30:41
+os: Linux-6.8.0-41-generic #41-Ubuntu SMP PREEMPT_DYNAMIC Fri Aug  2 20:41:06 UTC 2024
+nodename: max-emrich-Latitude-E5470
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry
+detected binary path: /home/max-emrich/WebServerEntry/django_venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/portfolio_site_entry
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 63263
+your memory page size is 4096 bytes
+ *** WARNING: you have enabled harakiri without post buffering. Slow upload could be rejected on post-unbuffered webservers *** 
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/portfolio_site_entry/myproject.sock fd 3
+Python version: 3.12.3 (main, Jul 31 2024, 17:43:48) [GCC 13.2.0]
+Python main interpreter initialized at 0x742340e9ff68
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416720 bytes (406 KB) for 10 cores
+*** Operational MODE: preforking+threaded ***
+ModuleNotFoundError: No module named 'portfolio_site_entry'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (pid: 21699, cores: 2)
+spawned uWSGI worker 2 (pid: 21700, cores: 2)
+spawned uWSGI worker 3 (pid: 21701, cores: 2)
+spawned uWSGI worker 4 (pid: 21702, cores: 2)
+spawned uWSGI worker 5 (pid: 21703, cores: 2)
+*** Starting uWSGI 2.0.26 (64bit) on [Mon Sep  2 14:12:58 2024] ***
+compiled with version: 13.2.0 on 22 August 2024 18:30:41
+os: Linux-6.8.0-41-generic #41-Ubuntu SMP PREEMPT_DYNAMIC Fri Aug  2 20:41:06 UTC 2024
+nodename: max-emrich-Latitude-E5470
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /
+detected binary path: /home/max-emrich/WebServerEntry/django_venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/portfolio_site_entry
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 63263
+your memory page size is 4096 bytes
+ *** WARNING: you have enabled harakiri without post buffering. Slow upload could be rejected on post-unbuffered webservers *** 
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/portfolio_site_entry/myproject.sock fd 3
+Python version: 3.12.3 (main, Jul 31 2024, 17:43:48) [GCC 13.2.0]
+Python main interpreter initialized at 0x78ca9e29ff68
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416720 bytes (406 KB) for 10 cores
+*** Operational MODE: preforking+threaded ***
+ModuleNotFoundError: No module named 'portfolio_site_entry'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (pid: 5551, cores: 2)
+spawned uWSGI worker 2 (pid: 5553, cores: 2)
+spawned uWSGI worker 3 (pid: 5554, cores: 2)
+spawned uWSGI worker 4 (pid: 5555, cores: 2)
+spawned uWSGI worker 5 (pid: 5556, cores: 2)
+*** Starting uWSGI 2.0.26 (64bit) on [Mon Sep  2 14:14:29 2024] ***
+compiled with version: 13.2.0 on 22 August 2024 18:30:41
+os: Linux-6.8.0-41-generic #41-Ubuntu SMP PREEMPT_DYNAMIC Fri Aug  2 20:41:06 UTC 2024
+nodename: max-emrich-Latitude-E5470
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /
+detected binary path: /home/max-emrich/WebServerEntry/django_venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/portfolio_site_entry
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 63263
+your memory page size is 4096 bytes
+ *** WARNING: you have enabled harakiri without post buffering. Slow upload could be rejected on post-unbuffered webservers *** 
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/portfolio_site_entry/myproject.sock fd 3
+Python version: 3.12.3 (main, Jul 31 2024, 17:43:48) [GCC 13.2.0]
+Python main interpreter initialized at 0x771e60a9ff68
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416720 bytes (406 KB) for 10 cores
+*** Operational MODE: preforking+threaded ***
+ModuleNotFoundError: No module named 'portfolio_site_entry'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (pid: 5574, cores: 2)
+spawned uWSGI worker 2 (pid: 5576, cores: 2)
+spawned uWSGI worker 3 (pid: 5577, cores: 2)
+spawned uWSGI worker 4 (pid: 5578, cores: 2)
+spawned uWSGI worker 5 (pid: 5579, cores: 2)
+*** Starting uWSGI 2.0.26 (64bit) on [Mon Sep  2 14:15:59 2024] ***
+compiled with version: 13.2.0 on 22 August 2024 18:30:41
+os: Linux-6.8.0-41-generic #41-Ubuntu SMP PREEMPT_DYNAMIC Fri Aug  2 20:41:06 UTC 2024
+nodename: max-emrich-Latitude-E5470
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /
+detected binary path: /home/max-emrich/WebServerEntry/django_venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/portfolio_site_entry
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 63263
+your memory page size is 4096 bytes
+ *** WARNING: you have enabled harakiri without post buffering. Slow upload could be rejected on post-unbuffered webservers *** 
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/portfolio_site_entry/myproject.sock fd 3
+Python version: 3.12.3 (main, Jul 31 2024, 17:43:48) [GCC 13.2.0]
+Python main interpreter initialized at 0x7bf79089ff68
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416720 bytes (406 KB) for 10 cores
+*** Operational MODE: preforking+threaded ***
+ModuleNotFoundError: No module named 'portfolio_site_entry'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (pid: 5616, cores: 2)
+spawned uWSGI worker 2 (pid: 5618, cores: 2)
+spawned uWSGI worker 3 (pid: 5619, cores: 2)
+spawned uWSGI worker 4 (pid: 5620, cores: 2)
+spawned uWSGI worker 5 (pid: 5621, cores: 2)
+*** Starting uWSGI 2.0.26 (64bit) on [Mon Sep  2 14:17:29 2024] ***
+compiled with version: 13.2.0 on 22 August 2024 18:30:41
+os: Linux-6.8.0-41-generic #41-Ubuntu SMP PREEMPT_DYNAMIC Fri Aug  2 20:41:06 UTC 2024
+nodename: max-emrich-Latitude-E5470
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /
+detected binary path: /home/max-emrich/WebServerEntry/django_venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/portfolio_site_entry
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 63263
+your memory page size is 4096 bytes
+ *** WARNING: you have enabled harakiri without post buffering. Slow upload could be rejected on post-unbuffered webservers *** 
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/portfolio_site_entry/myproject.sock fd 3
+Python version: 3.12.3 (main, Jul 31 2024, 17:43:48) [GCC 13.2.0]
+Python main interpreter initialized at 0x762bcfe9ff68
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416720 bytes (406 KB) for 10 cores
+*** Operational MODE: preforking+threaded ***
+ModuleNotFoundError: No module named 'portfolio_site_entry'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (pid: 5639, cores: 2)
+spawned uWSGI worker 2 (pid: 5641, cores: 2)
+spawned uWSGI worker 3 (pid: 5642, cores: 2)
+spawned uWSGI worker 4 (pid: 5643, cores: 2)
+spawned uWSGI worker 5 (pid: 5644, cores: 2)
+*** Starting uWSGI 2.0.26 (64bit) on [Mon Sep  2 14:19:00 2024] ***
+compiled with version: 13.2.0 on 22 August 2024 18:30:41
+os: Linux-6.8.0-41-generic #41-Ubuntu SMP PREEMPT_DYNAMIC Fri Aug  2 20:41:06 UTC 2024
+nodename: max-emrich-Latitude-E5470
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /
+detected binary path: /home/max-emrich/WebServerEntry/django_venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/portfolio_site_entry
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 63263
+your memory page size is 4096 bytes
+ *** WARNING: you have enabled harakiri without post buffering. Slow upload could be rejected on post-unbuffered webservers *** 
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/portfolio_site_entry/myproject.sock fd 3
+Python version: 3.12.3 (main, Jul 31 2024, 17:43:48) [GCC 13.2.0]
+Python main interpreter initialized at 0x7b426f09ff68
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416720 bytes (406 KB) for 10 cores
+*** Operational MODE: preforking+threaded ***
+ModuleNotFoundError: No module named 'portfolio_site_entry'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (pid: 5659, cores: 2)
+spawned uWSGI worker 2 (pid: 5661, cores: 2)
+spawned uWSGI worker 3 (pid: 5662, cores: 2)
+spawned uWSGI worker 4 (pid: 5663, cores: 2)
+spawned uWSGI worker 5 (pid: 5664, cores: 2)
+*** Starting uWSGI 2.0.26 (64bit) on [Mon Sep  2 14:20:30 2024] ***
+compiled with version: 13.2.0 on 22 August 2024 18:30:41
+os: Linux-6.8.0-41-generic #41-Ubuntu SMP PREEMPT_DYNAMIC Fri Aug  2 20:41:06 UTC 2024
+nodename: max-emrich-Latitude-E5470
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /
+detected binary path: /home/max-emrich/WebServerEntry/django_venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/portfolio_site_entry
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 63263
+your memory page size is 4096 bytes
+ *** WARNING: you have enabled harakiri without post buffering. Slow upload could be rejected on post-unbuffered webservers *** 
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/portfolio_site_entry/myproject.sock fd 3
+Python version: 3.12.3 (main, Jul 31 2024, 17:43:48) [GCC 13.2.0]
+Python main interpreter initialized at 0x775e6fa9ff68
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416720 bytes (406 KB) for 10 cores
+*** Operational MODE: preforking+threaded ***
+ModuleNotFoundError: No module named 'portfolio_site_entry'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (pid: 5678, cores: 2)
+spawned uWSGI worker 2 (pid: 5680, cores: 2)
+spawned uWSGI worker 3 (pid: 5681, cores: 2)
+spawned uWSGI worker 4 (pid: 5682, cores: 2)
+spawned uWSGI worker 5 (pid: 5683, cores: 2)
+*** Starting uWSGI 2.0.26 (64bit) on [Mon Sep  2 14:22:01 2024] ***
+compiled with version: 13.2.0 on 22 August 2024 18:30:41
+os: Linux-6.8.0-41-generic #41-Ubuntu SMP PREEMPT_DYNAMIC Fri Aug  2 20:41:06 UTC 2024
+nodename: max-emrich-Latitude-E5470
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /
+detected binary path: /home/max-emrich/WebServerEntry/django_venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/portfolio_site_entry
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 63263
+your memory page size is 4096 bytes
+ *** WARNING: you have enabled harakiri without post buffering. Slow upload could be rejected on post-unbuffered webservers *** 
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/portfolio_site_entry/myproject.sock fd 3
+Python version: 3.12.3 (main, Jul 31 2024, 17:43:48) [GCC 13.2.0]
+Python main interpreter initialized at 0x73c75a09ff68
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416720 bytes (406 KB) for 10 cores
+*** Operational MODE: preforking+threaded ***
+ModuleNotFoundError: No module named 'portfolio_site_entry'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (pid: 5715, cores: 2)
+spawned uWSGI worker 2 (pid: 5717, cores: 2)
+spawned uWSGI worker 3 (pid: 5718, cores: 2)
+spawned uWSGI worker 4 (pid: 5719, cores: 2)
+spawned uWSGI worker 5 (pid: 5720, cores: 2)
+*** Starting uWSGI 2.0.26 (64bit) on [Mon Sep  2 14:23:31 2024] ***
+compiled with version: 13.2.0 on 22 August 2024 18:30:41
+os: Linux-6.8.0-41-generic #41-Ubuntu SMP PREEMPT_DYNAMIC Fri Aug  2 20:41:06 UTC 2024
+nodename: max-emrich-Latitude-E5470
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /
+detected binary path: /home/max-emrich/WebServerEntry/django_venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/portfolio_site_entry
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 63263
+your memory page size is 4096 bytes
+ *** WARNING: you have enabled harakiri without post buffering. Slow upload could be rejected on post-unbuffered webservers *** 
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/portfolio_site_entry/myproject.sock fd 3
+Python version: 3.12.3 (main, Jul 31 2024, 17:43:48) [GCC 13.2.0]
+Python main interpreter initialized at 0x76d4dd89ff68
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416720 bytes (406 KB) for 10 cores
+*** Operational MODE: preforking+threaded ***
+ModuleNotFoundError: No module named 'portfolio_site_entry'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (pid: 5886, cores: 2)
+spawned uWSGI worker 2 (pid: 5888, cores: 2)
+spawned uWSGI worker 3 (pid: 5889, cores: 2)
+spawned uWSGI worker 4 (pid: 5890, cores: 2)
+spawned uWSGI worker 5 (pid: 5891, cores: 2)
+*** Starting uWSGI 2.0.26 (64bit) on [Mon Sep  2 14:25:51 2024] ***
+compiled with version: 13.2.0 on 22 August 2024 18:30:41
+os: Linux-6.8.0-41-generic #41-Ubuntu SMP PREEMPT_DYNAMIC Fri Aug  2 20:41:06 UTC 2024
+nodename: max-emrich-Latitude-E5470
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /
+detected binary path: /home/max-emrich/WebServerEntry/django_venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/portfolio_site_entry
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 63263
+your memory page size is 4096 bytes
+ *** WARNING: you have enabled harakiri without post buffering. Slow upload could be rejected on post-unbuffered webservers *** 
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/portfolio_site_entry/myproject.sock fd 3
+Python version: 3.12.3 (main, Jul 31 2024, 17:43:48) [GCC 13.2.0]
+Python main interpreter initialized at 0x7cbb1409ff68
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416720 bytes (406 KB) for 10 cores
+*** Operational MODE: preforking+threaded ***
+ModuleNotFoundError: No module named 'portfolio_site_entry'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (pid: 6034, cores: 2)
+spawned uWSGI worker 2 (pid: 6036, cores: 2)
+spawned uWSGI worker 3 (pid: 6037, cores: 2)
+spawned uWSGI worker 4 (pid: 6038, cores: 2)
+spawned uWSGI worker 5 (pid: 6039, cores: 2)
+*** Starting uWSGI 2.0.26 (64bit) on [Mon Sep  2 14:27:21 2024] ***
+compiled with version: 13.2.0 on 22 August 2024 18:30:41
+os: Linux-6.8.0-41-generic #41-Ubuntu SMP PREEMPT_DYNAMIC Fri Aug  2 20:41:06 UTC 2024
+nodename: max-emrich-Latitude-E5470
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /
+detected binary path: /home/max-emrich/WebServerEntry/django_venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/portfolio_site_entry
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 63263
+your memory page size is 4096 bytes
+ *** WARNING: you have enabled harakiri without post buffering. Slow upload could be rejected on post-unbuffered webservers *** 
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/portfolio_site_entry/myproject.sock fd 3
+Python version: 3.12.3 (main, Jul 31 2024, 17:43:48) [GCC 13.2.0]
+Python main interpreter initialized at 0x7f3e48e9ff68
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416720 bytes (406 KB) for 10 cores
+*** Operational MODE: preforking+threaded ***
+ModuleNotFoundError: No module named 'portfolio_site_entry'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (pid: 6680, cores: 2)
+spawned uWSGI worker 2 (pid: 6682, cores: 2)
+spawned uWSGI worker 3 (pid: 6683, cores: 2)
+spawned uWSGI worker 4 (pid: 6684, cores: 2)
+spawned uWSGI worker 5 (pid: 6685, cores: 2)
+*** Starting uWSGI 2.0.26 (64bit) on [Mon Sep  2 14:28:52 2024] ***
+compiled with version: 13.2.0 on 22 August 2024 18:30:41
+os: Linux-6.8.0-41-generic #41-Ubuntu SMP PREEMPT_DYNAMIC Fri Aug  2 20:41:06 UTC 2024
+nodename: max-emrich-Latitude-E5470
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /
+detected binary path: /home/max-emrich/WebServerEntry/django_venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/portfolio_site_entry
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 63263
+your memory page size is 4096 bytes
+ *** WARNING: you have enabled harakiri without post buffering. Slow upload could be rejected on post-unbuffered webservers *** 
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/portfolio_site_entry/myproject.sock fd 3
+Python version: 3.12.3 (main, Jul 31 2024, 17:43:48) [GCC 13.2.0]
+Python main interpreter initialized at 0x7e42cfa9ff68
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416720 bytes (406 KB) for 10 cores
+*** Operational MODE: preforking+threaded ***
+ModuleNotFoundError: No module named 'portfolio_site_entry'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (pid: 7502, cores: 2)
+spawned uWSGI worker 2 (pid: 7504, cores: 2)
+spawned uWSGI worker 3 (pid: 7505, cores: 2)
+spawned uWSGI worker 4 (pid: 7506, cores: 2)
+spawned uWSGI worker 5 (pid: 7507, cores: 2)
+VACUUM: unix socket /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/portfolio_site_entry/myproject.sock removed.
+*** Starting uWSGI 2.0.26 (64bit) on [Mon Sep  2 14:29:03 2024] ***
+compiled with version: 13.2.0 on 22 August 2024 18:30:41
+os: Linux-6.8.0-41-generic #41-Ubuntu SMP PREEMPT_DYNAMIC Fri Aug  2 20:41:06 UTC 2024
+nodename: max-emrich-Latitude-E5470
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /
+detected binary path: /home/max-emrich/WebServerEntry/django_venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/portfolio_site_entry
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 63263
+your memory page size is 4096 bytes
+ *** WARNING: you have enabled harakiri without post buffering. Slow upload could be rejected on post-unbuffered webservers *** 
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/portfolio_site_entry/myproject.sock fd 3
+Python version: 3.12.3 (main, Jul 31 2024, 17:43:48) [GCC 13.2.0]
+Python main interpreter initialized at 0x718a3729ff68
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416720 bytes (406 KB) for 10 cores
+*** Operational MODE: preforking+threaded ***
+ModuleNotFoundError: No module named 'portfolio_site_entry'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (pid: 7522, cores: 2)
+spawned uWSGI worker 2 (pid: 7524, cores: 2)
+spawned uWSGI worker 3 (pid: 7525, cores: 2)
+spawned uWSGI worker 4 (pid: 7526, cores: 2)
+spawned uWSGI worker 5 (pid: 7527, cores: 2)
+*** Starting uWSGI 2.0.26 (64bit) on [Mon Sep  2 14:31:08 2024] ***
+compiled with version: 13.2.0 on 22 August 2024 18:30:41
+os: Linux-6.8.0-41-generic #41-Ubuntu SMP PREEMPT_DYNAMIC Fri Aug  2 20:41:06 UTC 2024
+nodename: max-emrich-Latitude-E5470
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /
+detected binary path: /home/max-emrich/WebServerEntry/django_venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/portfolio_site_entry
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 63263
+your memory page size is 4096 bytes
+ *** WARNING: you have enabled harakiri without post buffering. Slow upload could be rejected on post-unbuffered webservers *** 
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/portfolio_site_entry/myproject.sock fd 3
+Python version: 3.12.3 (main, Jul 31 2024, 17:43:48) [GCC 13.2.0]
+Python main interpreter initialized at 0x7385bcc9ff68
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416720 bytes (406 KB) for 10 cores
+*** Operational MODE: preforking+threaded ***
+ModuleNotFoundError: No module named 'portfolio_site_entry'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (pid: 7601, cores: 2)
+spawned uWSGI worker 2 (pid: 7608, cores: 2)
+spawned uWSGI worker 3 (pid: 7609, cores: 2)
+spawned uWSGI worker 4 (pid: 7610, cores: 2)
+spawned uWSGI worker 5 (pid: 7611, cores: 2)
+*** Starting uWSGI 2.0.26 (64bit) on [Mon Sep  2 14:32:38 2024] ***
+compiled with version: 13.2.0 on 22 August 2024 18:30:41
+os: Linux-6.8.0-41-generic #41-Ubuntu SMP PREEMPT_DYNAMIC Fri Aug  2 20:41:06 UTC 2024
+nodename: max-emrich-Latitude-E5470
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /
+detected binary path: /home/max-emrich/WebServerEntry/django_venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/portfolio_site_entry
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 63263
+your memory page size is 4096 bytes
+ *** WARNING: you have enabled harakiri without post buffering. Slow upload could be rejected on post-unbuffered webservers *** 
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/portfolio_site_entry/myproject.sock fd 3
+Python version: 3.12.3 (main, Jul 31 2024, 17:43:48) [GCC 13.2.0]
+Python main interpreter initialized at 0x76b7a9a9ff68
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416720 bytes (406 KB) for 10 cores
+*** Operational MODE: preforking+threaded ***
+ModuleNotFoundError: No module named 'portfolio_site_entry'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (pid: 7649, cores: 2)
+spawned uWSGI worker 2 (pid: 7651, cores: 2)
+spawned uWSGI worker 3 (pid: 7652, cores: 2)
+spawned uWSGI worker 4 (pid: 7653, cores: 2)
+spawned uWSGI worker 5 (pid: 7654, cores: 2)
+*** Starting uWSGI 2.0.26 (64bit) on [Mon Sep  2 14:34:09 2024] ***
+compiled with version: 13.2.0 on 22 August 2024 18:30:41
+os: Linux-6.8.0-41-generic #41-Ubuntu SMP PREEMPT_DYNAMIC Fri Aug  2 20:41:06 UTC 2024
+nodename: max-emrich-Latitude-E5470
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /
+detected binary path: /home/max-emrich/WebServerEntry/django_venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/portfolio_site_entry
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 63263
+your memory page size is 4096 bytes
+ *** WARNING: you have enabled harakiri without post buffering. Slow upload could be rejected on post-unbuffered webservers *** 
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/portfolio_site_entry/myproject.sock fd 3
+Python version: 3.12.3 (main, Jul 31 2024, 17:43:48) [GCC 13.2.0]
+Python main interpreter initialized at 0x74491029ff68
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416720 bytes (406 KB) for 10 cores
+*** Operational MODE: preforking+threaded ***
+ModuleNotFoundError: No module named 'portfolio_site_entry'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (pid: 7842, cores: 2)
+spawned uWSGI worker 2 (pid: 7844, cores: 2)
+spawned uWSGI worker 3 (pid: 7845, cores: 2)
+spawned uWSGI worker 4 (pid: 7846, cores: 2)
+spawned uWSGI worker 5 (pid: 7847, cores: 2)
+*** Starting uWSGI 2.0.26 (64bit) on [Mon Sep  2 14:35:39 2024] ***
+compiled with version: 13.2.0 on 22 August 2024 18:30:41
+os: Linux-6.8.0-41-generic #41-Ubuntu SMP PREEMPT_DYNAMIC Fri Aug  2 20:41:06 UTC 2024
+nodename: max-emrich-Latitude-E5470
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /
+detected binary path: /home/max-emrich/WebServerEntry/django_venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/portfolio_site_entry
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 63263
+your memory page size is 4096 bytes
+ *** WARNING: you have enabled harakiri without post buffering. Slow upload could be rejected on post-unbuffered webservers *** 
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/portfolio_site_entry/myproject.sock fd 3
+Python version: 3.12.3 (main, Jul 31 2024, 17:43:48) [GCC 13.2.0]
+Python main interpreter initialized at 0x7fb2ce49ff68
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416720 bytes (406 KB) for 10 cores
+*** Operational MODE: preforking+threaded ***
+ModuleNotFoundError: No module named 'portfolio_site_entry'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (pid: 7878, cores: 2)
+spawned uWSGI worker 2 (pid: 7880, cores: 2)
+spawned uWSGI worker 3 (pid: 7881, cores: 2)
+spawned uWSGI worker 4 (pid: 7882, cores: 2)
+spawned uWSGI worker 5 (pid: 7883, cores: 2)
+*** Starting uWSGI 2.0.26 (64bit) on [Mon Sep  2 14:37:10 2024] ***
+compiled with version: 13.2.0 on 22 August 2024 18:30:41
+os: Linux-6.8.0-41-generic #41-Ubuntu SMP PREEMPT_DYNAMIC Fri Aug  2 20:41:06 UTC 2024
+nodename: max-emrich-Latitude-E5470
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /
+detected binary path: /home/max-emrich/WebServerEntry/django_venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/portfolio_site_entry
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 63263
+your memory page size is 4096 bytes
+ *** WARNING: you have enabled harakiri without post buffering. Slow upload could be rejected on post-unbuffered webservers *** 
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/portfolio_site_entry/myproject.sock fd 3
+Python version: 3.12.3 (main, Jul 31 2024, 17:43:48) [GCC 13.2.0]
+Python main interpreter initialized at 0x75b2bc29ff68
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416720 bytes (406 KB) for 10 cores
+*** Operational MODE: preforking+threaded ***
+ModuleNotFoundError: No module named 'portfolio_site_entry'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (pid: 8507, cores: 2)
+spawned uWSGI worker 2 (pid: 8509, cores: 2)
+spawned uWSGI worker 3 (pid: 8510, cores: 2)
+spawned uWSGI worker 4 (pid: 8511, cores: 2)
+spawned uWSGI worker 5 (pid: 8512, cores: 2)
+*** Starting uWSGI 2.0.26 (64bit) on [Mon Sep  2 14:38:40 2024] ***
+compiled with version: 13.2.0 on 22 August 2024 18:30:41
+os: Linux-6.8.0-41-generic #41-Ubuntu SMP PREEMPT_DYNAMIC Fri Aug  2 20:41:06 UTC 2024
+nodename: max-emrich-Latitude-E5470
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /
+detected binary path: /home/max-emrich/WebServerEntry/django_venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/portfolio_site_entry
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 63263
+your memory page size is 4096 bytes
+ *** WARNING: you have enabled harakiri without post buffering. Slow upload could be rejected on post-unbuffered webservers *** 
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/portfolio_site_entry/myproject.sock fd 3
+Python version: 3.12.3 (main, Jul 31 2024, 17:43:48) [GCC 13.2.0]
+Python main interpreter initialized at 0x7c64b869ff68
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416720 bytes (406 KB) for 10 cores
+*** Operational MODE: preforking+threaded ***
+ModuleNotFoundError: No module named 'portfolio_site_entry'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (pid: 8535, cores: 2)
+spawned uWSGI worker 2 (pid: 8537, cores: 2)
+spawned uWSGI worker 3 (pid: 8538, cores: 2)
+spawned uWSGI worker 4 (pid: 8539, cores: 2)
+spawned uWSGI worker 5 (pid: 8540, cores: 2)
+*** Starting uWSGI 2.0.26 (64bit) on [Mon Sep  2 14:40:11 2024] ***
+compiled with version: 13.2.0 on 22 August 2024 18:30:41
+os: Linux-6.8.0-41-generic #41-Ubuntu SMP PREEMPT_DYNAMIC Fri Aug  2 20:41:06 UTC 2024
+nodename: max-emrich-Latitude-E5470
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /
+detected binary path: /home/max-emrich/WebServerEntry/django_venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/portfolio_site_entry
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 63263
+your memory page size is 4096 bytes
+ *** WARNING: you have enabled harakiri without post buffering. Slow upload could be rejected on post-unbuffered webservers *** 
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/portfolio_site_entry/myproject.sock fd 3
+Python version: 3.12.3 (main, Jul 31 2024, 17:43:48) [GCC 13.2.0]
+Python main interpreter initialized at 0x71de2ce9ff68
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416720 bytes (406 KB) for 10 cores
+*** Operational MODE: preforking+threaded ***
+ModuleNotFoundError: No module named 'portfolio_site_entry'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (pid: 8572, cores: 2)
+spawned uWSGI worker 2 (pid: 8574, cores: 2)
+spawned uWSGI worker 3 (pid: 8575, cores: 2)
+spawned uWSGI worker 4 (pid: 8576, cores: 2)
+spawned uWSGI worker 5 (pid: 8577, cores: 2)
+*** Starting uWSGI 2.0.26 (64bit) on [Mon Sep  2 14:41:41 2024] ***
+compiled with version: 13.2.0 on 22 August 2024 18:30:41
+os: Linux-6.8.0-41-generic #41-Ubuntu SMP PREEMPT_DYNAMIC Fri Aug  2 20:41:06 UTC 2024
+nodename: max-emrich-Latitude-E5470
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 4
+current working directory: /
+detected binary path: /home/max-emrich/WebServerEntry/django_venv/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+chdir() to /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/portfolio_site_entry
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 63263
+your memory page size is 4096 bytes
+ *** WARNING: you have enabled harakiri without post buffering. Slow upload could be rejected on post-unbuffered webservers *** 
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/portfolio_site_entry/myproject.sock fd 3
+Python version: 3.12.3 (main, Jul 31 2024, 17:43:48) [GCC 13.2.0]
+Python main interpreter initialized at 0x73610fc9ff68
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 416720 bytes (406 KB) for 10 cores
+*** Operational MODE: preforking+threaded ***
+ModuleNotFoundError: No module named 'portfolio_site_entry'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (pid: 8590, cores: 2)
+spawned uWSGI worker 2 (pid: 8592, cores: 2)
+spawned uWSGI worker 3 (pid: 8593, cores: 2)
+spawned uWSGI worker 4 (pid: 8594, cores: 2)
+spawned uWSGI worker 5 (pid: 8595, cores: 2)

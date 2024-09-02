@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-k$fcpm0*tg5nagzcifq$qt0)n5&(5ub&ah&phf=%#l)nt=8b(6'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['talesfrom616.com', 'www.talesfrom616.com', '192.168.0.22']
 
@@ -122,7 +122,10 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/5.0/howto/static-files/
 
 STATIC_URL = '/static/'
-STATIC_ROOT = os.path.join(BASE_DIR, "static/")
+STATIC_ROOT = '/home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/static'
+
+MEDIA_URL = '/media/'
+MEDIA_ROOT = '/home/max-emrich/WebServerEntry/PortfolioSite/portfolio_site_entry/media'
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field
